@@ -12,6 +12,7 @@ A Flask + PostgreSQL-based backend for managing university courses and instances
 ## Run Locally 🐳
 
 ```bash
-git clone https://github.com/rahu31122002/course-api.git
+git clone git clone https://github.com/rahu31122002/course-api.git
 cd course-api
 docker-compose up --build
+
