@@ -1,0 +1,10 @@
+course-api/
+├── app/
+│   ├── __init__.py
+│   ├── db_config.py
+│   ├── models.py
+│   └── routes.py
+├── Dockerfile
+├── docker-compose.yaml
+├── requirements.txt
+└── README.md
