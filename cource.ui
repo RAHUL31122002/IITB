@@ -1,0 +1,16 @@
+course-ui/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── CourseForm.jsx
+│   │   ├── CourseList.jsx
+│   │   ├── InstanceForm.jsx
+│   │   ├── InstanceList.jsx
+│   │   └── CourseDetails.jsx
+│   ├── api/
+│   │   └── api.js
+│   ├── App.js
+│   └── index.js
+├── package.json
+├── .env
+└── README.md
